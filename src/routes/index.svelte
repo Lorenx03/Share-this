@@ -1,6 +1,5 @@
-<script>
-    
-</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5869146437220867"
+crossorigin="anonymous"></script>
 
 <style lang="scss">
 
