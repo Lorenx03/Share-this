@@ -103,12 +103,7 @@
     </div>
 
     <div class="ads">
-        <ins class="adsbygoogle"
-        style="display:block"
-        data-ad-client="ca-pub-5869146437220867"
-        data-ad-slot="4776781703"
-        data-ad-format="auto"
-        data-full-width-responsive="true"></ins>
+        
     </div>
 
 </div>
