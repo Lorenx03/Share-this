@@ -1,3 +1,12 @@
+<script>
+     import { onMount } from 'svelte';
+
+     onMount(() => {
+      (window.adsbygoogle = window.adsbygoogle || []).push({});
+    });
+</script>
+
+
 <style lang="scss">
 
     .wrapper{
@@ -70,7 +79,14 @@
 
 <div class="wrapper">
 
-    <div class="ads"></div>
+    <div class="ads"> <!-- Vertical -->
+        <ins class="adsbygoogle"
+        style="display:block"
+        data-ad-client="ca-pub-5869146437220867"
+        data-ad-slot="4776781703"
+        data-ad-format="auto"
+        data-full-width-responsive="true"></ins> 
+    </div>
 
     <div class="content">
         <h1>
@@ -86,7 +102,14 @@
         <button> Share </button>
     </div>
 
-    <div class="ads"></div>
+    <div class="ads">
+        <ins class="adsbygoogle"
+        style="display:block"
+        data-ad-client="ca-pub-5869146437220867"
+        data-ad-slot="4776781703"
+        data-ad-format="auto"
+        data-full-width-responsive="true"></ins>
+    </div>
 
 </div>
 
